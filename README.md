@@ -9,7 +9,6 @@ Welcome to the Rock, Paper, Scissors game project! This is a simple web-based im
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -74,16 +73,13 @@ Contributions are welcome! If you have suggestions for improvements or new featu
     ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 If you have any questions or feedback, feel free to contact me:
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: youremail@example.com
+- **GitHub**: [giriyaram](https://github.com/giriyaram)
+
 
 ---
 
